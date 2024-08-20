@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 - 👋 Hello! I’m @camillakathy
 - <p>:technologist: I’m interested in almost topics 🤓 Software, Web devs, Database, Data Science, Machine Learning, .... </p>
 - 💞️ I’m looking to collaborate on any open-source projects
