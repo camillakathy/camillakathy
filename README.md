@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!+Im+Camilla;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!;Im+Camilla;Welcome!)](https://git.io/typing-svg)
 ## A few things about me
 - 🧑‍💻 I’m interested in almost topics 🤓 Software, Web devs, Database, Data Science, Machine Learning, .... 
 - ✈️ Love to travel to new places.
