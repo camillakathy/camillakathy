@@ -3,6 +3,7 @@
 - 🧑‍💻 I’m interested in almost any topics 🤓 Software, Web developments, Database, Data Science, Machine Learning, .... 
 - ✈️ Love to travel to new places.
 - ♟️ In my free time, I play chess.
+- 👩‍💻 Also a tech enthusiast.
 - 💞️ I’m looking to collaborate on any open-source projects.
 - 👓 Always excited about learning new web technologies.
 - 🔬 I'm currently working on data science projects.
