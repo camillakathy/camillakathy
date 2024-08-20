@@ -2,6 +2,7 @@
 - <p>:technologist: I’m interested in almost topics 🤓 Software, Web devs, Database, Data Science, Machine Learning, .... </p>
 - 💞️ I’m looking to collaborate on any open-source projects
 <h3>Skills & Technologies</h3>
+![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
 <p align="left"> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) </p>
 <p align="left"> [Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) </p>
 <p align="left"> [C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) </p>
