@@ -34,7 +34,7 @@
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/> </p>
 <br> <br/>
-<h3 align="center">Lets have a Chess Match</h3>
+<h3 align="center">Fancy a game of Chess?</h3>
 <p align="center">
   <img width="256" src="https://o.charles-chrismann.fr/board.png" />
 </p>
