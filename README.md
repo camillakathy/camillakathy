@@ -4,7 +4,8 @@
 - ✈️ Love to travel to new places.
 - ♟️ In my free time, I play chess.
 - 💞️ I’m looking to collaborate on any open-source projects.
-- 👓 Always excited about learning new web technologies
+- 👓 Always excited about learning new web technologies.
+- 🔬 I'm currently working on data science projects.
 ##Skills & Technologies
 <p align="left"> <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/> 
