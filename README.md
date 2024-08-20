@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-- 👋 Hello! I’m @camillakathy
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!+Im+Camilla;Second+line+of+text)](https://git.io/typing-svg)
 - <p>:technologist: I’m interested in almost topics 🤓 Software, Web devs, Database, Data Science, Machine Learning, .... </p>
 - 💞️ I’m looking to collaborate on any open-source projects
 <h3>Skills & Technologies</h3>
