@@ -1,6 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!+Im+Camilla;Second+line+of+text)](https://git.io/typing-svg)
-- <p>:technologist: I’m interested in almost topics 🤓 Software, Web devs, Database, Data Science, Machine Learning, .... </p>
-- 💞️ I’m looking to collaborate on any open-source projects
+## A few things about me
+- 🧑‍💻 I’m interested in almost topics 🤓 Software, Web devs, Database, Data Science, Machine Learning, .... 
+- ✈️ Love to travel to new places.
+- ♟️ In my free time, I play chess.
+- 💞️ I’m looking to collaborate on any open-source projects.
+- 👓 Always excited about learning new web technologies
 <h3>Skills & Technologies</h3>
 <p align="left"> <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/> 
